@@ -1,0 +1,14 @@
+body{
+    background: cornflowerblue;
+}
+
+p{
+
+    background-color: lightgreen;
+    color: red;
+    border: blue;
+}
+div  {
+
+    color:red
+}

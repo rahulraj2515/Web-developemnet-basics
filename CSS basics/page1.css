@@ -1,0 +1,26 @@
+div{
+    background: lightblue;
+    color: red;
+}
+
+p{
+    border: 3px solid gold;
+}
+
+h1{
+    color: red;
+    background: lightskyblue;
+    border:3px solid green;
+}
+
+h2 ,p {
+    color:blue
+}
+
+ol li {
+    color:green
+}
+
+ul li {
+    color: indigo;
+}

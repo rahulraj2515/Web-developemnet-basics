@@ -1,0 +1,26 @@
+div{
+    background: lightblue;
+    color: purple;
+
+}
+
+form{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: red;
+}
+
+input{
+
+    background: lightgreen;
+    color: black;
+}
+select{
+    font-family: serif;
+    color: chocolate;
+}
+
+button{
+    color: darkblue;
+    background: darkgoldenrod;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
